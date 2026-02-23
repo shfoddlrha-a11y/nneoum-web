@@ -17,17 +17,17 @@ export const metadata: Metadata = {
   // [보안 추가] 모든 상대 경로의 기준이 되는 도메인 주소를 설정합니다.
   metadataBase: new URL("https://nneoum.com"), 
 
-  title: "nneoum | I shape the essential",
-  description: "nneoum Venture Studio visualizes what truly matters.",
+  title: "nneoum | venture studio",
+  description: "shoot to the moon",
   
   openGraph: {
-    title: "nneoum | Venture Studio",
-    description: "I shape the essential.",
+    title: "nneoum | venture studio",
+    description: "shoot to the moon",
     url: "https://nneoum.com",
     siteName: "nneoum",
     images: [
       {
-        url: "/og-image.png", // 이제 앞에 https://nneoum.com이 자동으로 붙습니다.
+        url: "/og-image.png",
         width: 1200,
         height: 630,
       },
