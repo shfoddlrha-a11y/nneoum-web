@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: "nneoum",
     images: [
       {
-        url: "/og-image.png",
+        url: "/og-v2.png",
         width: 1200,
         height: 630,
       },
